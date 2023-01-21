@@ -19,4 +19,3 @@ var removeDuplicates = function (nums) {
   }
   return total
 }
-
